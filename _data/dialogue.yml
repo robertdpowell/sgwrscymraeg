@@ -3,27 +3,27 @@
 # dialogue section
 
 dialogue:
-  - jac:
-      text: Sali, wyt ti wedi clywed am y perchnogion newydd o America sydd wedi prynu Wrexham AFC?
-      translation: Sali, have you heard about the new American owners who bought Wrexham AFC?
+  - jac: 
+      text: Sali, dw i'n meddwl y dylem ni ddefnyddio Scrum ar gyfer ein prosiect. Mae'n ffordd dda iawn o weithio mewn tîm.
+      translation: Sali, I think we should use Scrum for our project. It's a very good way of working in a team.
     sali:
-      text: Ydw, mae'n ddiddorol iawn! Sut mae hynny'n effeithio'r clwb, wyt ti'n meddwl?
-      translation: Yes, it's very interesting! How does that affect the club, do you think?
+      text: Hmm, dw i ddim yn siŵr, Jac. Dw i wedi darllen am Kanban ac mae'n swnio'n fwy addas i'n sefyllfa ni.
+      translation: Hmm, I'm not sure, Jac. I've read about Kanban and it sounds more suitable for our situation.
   - jac:
-      text: Mae'n sôn am fuddsoddi mewn adnoddau, hyfforddi a chyfleusterau i wella'r clwb. Gallai hyn arwain at lwyddiant mawr yn y dyfodol.
-      translation: They're talking about investing in resources, training, and facilities to improve the club. This could lead to great success in the future.
+      text: Ond mae Scrum yn rhoi strwythur cadarn i'n gwaith a'n helpu i gadw at amserlenni.
+      translation: But Scrum provides a solid structure to our work and helps us stick to schedules.
     sali:
-      text: Gobeithio y bydd hynny'n wir. Mae'n braf gweld buddsoddiad yn ein clwb lleol.
-      translation: Hopefully that's true. It's nice to see investment in our local club.
+      text: Rwy'n deall hynny, ond mae Kanban yn rhoi mwy o hyblygrwydd ac yn caniatáu i ni addasu'n gyflymach i newidiadau.
+      translation: I understand that, but Kanban provides more flexibility and allows us to adapt faster to changes.
   - jac:
-      text: Hefyd, mae'r perchnogion newydd wedi denu sylw o'r wasg a'r cyfryngau. Gallai hynny helpu i godi proffil Wrexham AFC yn rhyngwladol.
-      translation: Also, the new owners have attracted attention from the press and media. This could help raise the profile of Wrexham AFC internationally.
+      text: Wel, gall Scrum fod yn hyblyg hefyd, a mae'r cyfarfodydd rheolaidd yn gwneud yn siŵr bod pawb ar yr un dudalen.
+      translation: Well, Scrum can be flexible too, and the regular meetings make sure everyone is on the same page.
     sali:
-      text: Yn wir, mae hynny'n bwynt da. Mae'n bosibl y bydd y clwb yn denu chwaraewyr talentog a noddwyr mawr.
-      translation: That's true, it's a good point. The club might attract talented players and big sponsors.
+      text: Er gwaethaf hynny, dw i'n credu y byddai Kanban yn fwy effeithiol ar gyfer ein prosiect. Gallwn ni drio am gyfnod byr ac yna newid os oes angen.
+      translation: Despite that, I believe Kanban would be more effective for our project. We could try it for a short period and then change if necessary.
   - jac:
-      text: Yn y cyfamser, mae'n bwysig i gefnogwyr Wrexham gefnogi'r clwb drwy fynychu gemau a chefnogi'r tîm.
-      translation: In the meantime, it's important for Wrexham supporters to support the club by attending games and supporting the team.
+      text: Efallai y gallech chi roi mwy o wybodaeth am Kanban, fel gallwn ni benderfynu yn well?
+      translation: Maybe you could provide more information about Kanban, so we can make a better decision?
     sali:
-      text: Cytuno'n llwyr. Gadewch i ni fynd i'r gêm nesaf ynghyd, a chefnogi Wrexham AFC i lwyddiant!
-      translation: Totally agree. Let's go to the next game together and support Wrexham AFC to success!
+      text: Wrth gwrs, mi wnaf. Gallwn ni drafod mwy am y ddau ddull ac yna benderfynu.
+      translation: Of course, I will. We can discuss more about both methods and then decide.
